@@ -1,11 +1,12 @@
 # Simple AI Chatbot 🤖
 
-This is a basic AI chatbot created using Python.
+This is a beginner-friendly AI chatbot built using Python.
 
 ## Features
-- Responds to user greetings
-- Simple text-based chatbot
-- Beginner-friendly AI logic
+- Responds to greetings like hello
+- Answers simple questions
+- Runs in terminal
+- Easy to understand and modify
 
 ## Technologies Used
 - Python
@@ -13,9 +14,15 @@ This is a basic AI chatbot created using Python.
 ## How to Run
 
 1. Install Python
-2. Run:
+2. Download the project
+3. Run:
 
 python chatbot.py
+
+## Future Improvements
+- Add voice support
+- Connect to AI APIs
+- Build Jarvis-style assistant
 
 ## Author
 Teenoj
